@@ -9,9 +9,9 @@ The analysis is based on the methodology provided by the Varieties of Democracy 
 The data used in this project was obtained from:
 - Varieties of Democracy, University of Gothenburg, V-Dem Institute.
 
-Comprehensive information about the methodology of the Liberal Democracy Index calculation can be found in the Varieties of Democracy codebook, available in the `code.pdf` file within the project folder or at [https://v-dem.net](https://v-dem.net).
+Comprehensive information about the methodology of the Liberal Democracy Index calculation can be found in the Varieties of Democracy codebook, available at [https://v-dem.net](https://v-dem.net).
 
-## Steps in the Project
+## Steps
 
 ### 1. Understanding the Data
 An initial exploration of the dataset was conducted to understand its structure and contents.
