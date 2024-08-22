@@ -27,7 +27,7 @@ The final processed dataset was saved for future use and visualization.
 
 ### 5. Visualisation
 An animated visualization was created using Flourish and can be viewed at the following link: https://public.flourish.studio/visualisation/19151507/ 
-![Description of the GIF](LDI.gif)
+![Description of the GIF](imanes/LDI.gif)
 
 ## How to Use
 1. Clone this repository.
